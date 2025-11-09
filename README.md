@@ -10,7 +10,7 @@
 [![Live Platform](https://img.shields.io/badge/🚀_Live_Platform-fileout.online-blue?style=for-the-badge)](https://fileout.online)
 [![Get Started Free](https://img.shields.io/badge/✨_Get_Started-Free-success?style=for-the-badge)](https://fileout.online/register)
 
-[Try Free](https://fileout.online/register) •  [Contact Us](https://fileout.online/contact)
+[Try Free](https://fileout.online/register) •  [Contact Us](https://fileout.online/contact) •  [Linkedin](https://www.linkedin.com/company/fileout) 
 
 </div>
 
