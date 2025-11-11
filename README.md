@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FileOut Banner](https://fileout.online/banner.png)
+![FileOut Banner](https://fileout.online/_next/image?url=%2Flogo.png&w=1080&q=75)
 
 ### **AI-Powered Document Generation Platform**
 #### Professional Documents from Text Prompts
