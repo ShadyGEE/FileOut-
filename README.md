@@ -188,14 +188,14 @@ No credit card required.
 ## Legal
 
 **Compliance:** GDPR, CCPA
-**License:** MIT License
+**License:** Proprietary
 **Owner:** Shady Ghonim
 
 **Documentation:**
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Terms of Service](TERMS_OF_SERVICE.md)
 - [Security Policy](SECURITY.md)
-- [MIT License](LICENSE)
+- [License](LICENSE)
 
 ---
 
